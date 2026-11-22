@@ -1,0 +1,139 @@
+{
+  "jobs": [
+    {
+      "id": 1001,
+      "title": "Frontend Engineering Intern (React & TypeScript)",
+      "company_name": "Nusantara Cloud Tech",
+      "category": "Software Development",
+      "candidate_required_location": "Surabaya (Hybrid)",
+      "salary": "Rp 4.500.000",
+      "tags": ["React", "TypeScript", "CSS", "Git", "REST API"]
+    },
+    {
+      "id": 1002,
+      "title": "Full-Stack Web Developer Intern",
+      "company_name": "Garuda FinTech",
+      "category": "Software Development",
+      "candidate_required_location": "Jakarta (Remote)",
+      "salary": "Rp 5.500.000",
+      "tags": ["React", "TypeScript", "PostgreSQL", "Express", "Prisma"]
+    },
+    {
+      "id": 1003,
+      "title": "Software Engineer Intern — Web Platform",
+      "company_name": "Bintang Commerce",
+      "category": "Software Development",
+      "candidate_required_location": "Indonesia (Remote)",
+      "salary": "Rp 6.000.000",
+      "tags": ["React", "TypeScript", "CSS", "Git", "Testing"]
+    },
+    {
+      "id": 1004,
+      "title": "DevOps & Cloud Infrastructure Intern",
+      "company_name": "AwanMerdeka Cloud",
+      "category": "DevOps / Sysadmin",
+      "candidate_required_location": "Jakarta (Remote)",
+      "salary": "Rp 5.200.000",
+      "tags": ["Git", "PostgreSQL", "Linux", "Docker", "CI/CD"]
+    },
+    {
+      "id": 1005,
+      "title": "UI Engineer Intern — Design System",
+      "company_name": "Karya Digital Studio",
+      "category": "Design",
+      "candidate_required_location": "Bandung (Hybrid)",
+      "salary": "Rp 4.000.000",
+      "tags": ["React", "CSS", "Figma", "Accessibility", "TypeScript"]
+    },
+    {
+      "id": 1006,
+      "title": "Backend API Intern (Node.js)",
+      "company_name": "EduSpark Indonesia",
+      "category": "Software Development",
+      "candidate_required_location": "Yogyakarta (Remote)",
+      "salary": "Rp 4.200.000",
+      "tags": ["Node.js", "TypeScript", "PostgreSQL", "REST API", "Docker"]
+    },
+    {
+      "id": 1007,
+      "title": "Cybersecurity Analyst Intern",
+      "company_name": "Perisai Siber Nusantara",
+      "category": "Security",
+      "candidate_required_location": "Jakarta (Onsite)",
+      "salary": "Rp 5.000.000",
+      "tags": ["Linux", "Networking", "OWASP", "Python", "SIEM"]
+    },
+    {
+      "id": 1008,
+      "title": "Data Engineering Intern",
+      "company_name": "SawitData Analytics",
+      "category": "Data",
+      "candidate_required_location": "Surabaya (Hybrid)",
+      "salary": "Rp 4.800.000",
+      "tags": ["Python", "SQL", "PostgreSQL", "Airflow", "Docker"]
+    },
+    {
+      "id": 1009,
+      "title": "Mobile Frontend Intern (React Native)",
+      "company_name": "LogisCepat Express",
+      "category": "Software Development",
+      "candidate_required_location": "Tangerang (Hybrid)",
+      "salary": "Rp 4.750.000",
+      "tags": ["React", "TypeScript", "REST API", "Git", "Mobile UI"]
+    },
+    {
+      "id": 1010,
+      "title": "QA Automation Engineer Intern",
+      "company_name": "DanaKilat Pay",
+      "category": "QA",
+      "candidate_required_location": "Jakarta (Remote)",
+      "salary": "Rp 4.300.000",
+      "tags": ["TypeScript", "Playwright", "Testing", "CI/CD", "REST API"]
+    },
+    {
+      "id": 1011,
+      "title": "IoT & Embedded Telemetry Intern",
+      "company_name": "AgroSense Mandiri",
+      "category": "Hardware / IoT",
+      "candidate_required_location": "Surabaya (Onsite)",
+      "salary": "Rp 3.800.000",
+      "tags": ["C++", "ESP32", "MQTT", "Linux", "Python"]
+    },
+    {
+      "id": 1012,
+      "title": "Web Performance & Frontend Intern",
+      "company_name": "MediaLoka Network",
+      "category": "Software Development",
+      "candidate_required_location": "Indonesia (Remote)",
+      "salary": "Rp 4.600.000",
+      "tags": ["React", "CSS", "TypeScript", "Vite", "HTML"]
+    },
+    {
+      "id": 1013,
+      "title": "Network Operations Center Intern",
+      "company_name": "LintasFiber Telecom",
+      "category": "DevOps / Sysadmin",
+      "candidate_required_location": "Surabaya (Onsite)",
+      "salary": "Rp 3.900.000",
+      "tags": ["Networking", "Linux", "Firewall", "Cisco", "Monitoring"]
+    },
+    {
+      "id": 1014,
+      "title": "Machine Learning Platform Intern",
+      "company_name": "Nalar AI Labs",
+      "category": "Data",
+      "candidate_required_location": "Bandung (Remote)",
+      "salary": "Rp 5.800.000",
+      "tags": ["Python", "Docker", "REST API", "PyTorch", "Git"]
+    },
+    {
+      "id": 1015,
+      "title": "Product Frontend Intern",
+      "company_name": "RuangKoperasi Tech",
+      "category": "Software Development",
+      "candidate_required_location": "Malang (Hybrid)",
+      "salary": "Rp 4.100.000",
+      "tags": ["React", "CSS", "JavaScript", "Git", "REST API"]
+    }
+  ]
+}
