@@ -23,6 +23,7 @@ import {
 import { canTransitionStatus, STATUS_LABELS } from './utils/stateMachine';
 import { Navbar } from './components/Navbar';
 import { ConflictBanner } from './components/ConflictBanner';
+import { PlaygroundHero } from './components/PlaygroundHero';
 import { StatsStrip } from './components/StatsStrip';
 import { SkillProfile } from './components/SkillProfile';
 import { JobExplorer } from './components/JobExplorer';
@@ -465,6 +466,14 @@ export default function App() {
             setActiveTab('pipeline');
             setSelectedAppId(id);
           }}
+        />
+
+        <PlaygroundHero
+          applications={applications}
+          kaptenSkills={kaptenSkills}
+          activeTab={activeTab}
+          onChangeTab={setActiveTab}
+          onOpenManualModal={() => setIsManualModalOpen(true)}
         />
 
         <StatsStrip applications={applications} />
